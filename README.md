@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 
 <h4>Além da graduação venho estudando e me especializando na área de desenvolvimento web full-stack, algumas das tecnologias que já venho me aperfeiçoando são:</h4>
 
-- Front-End com HTML5, CSS3, JavaScript, Bootstrap e React
-- Back-End com PHP (com POO), Node.js e Java (POO, Swing e JavaFX)
-- Banco de Dados (MySQL)
-- Git e GitHub
+- Front-End com HTML5, CSS3, JavaScript, Bootstrap e React;
+- Back-End com PHP (com POO), Node.js e Java (POO, Swing e JavaFX);
+- Banco de Dados (MySQL);
+- Git e GitHub.
 
 <h4>Também possuo conhecimento nas linguagens C e Python obtidos na graduação em andamento por meio de disciplinas das respectivas linguagens e em estrutura de dados.</h4>
 
