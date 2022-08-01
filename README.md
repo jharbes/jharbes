@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 <h4>Meu Inglês é de nível Avançado obtido por meio de curso presencial no CCAA, já finalizado.</h4>
 
-<h4>Acesse todas as outras minha redes sociais aqui: https://jharbes.github.io/my-social-networks/</h4>
+<h4>Acesse meu LinkedIn e todas as outras minha redes sociais aqui: https://jharbes.github.io/my-social-networks/</h4>
