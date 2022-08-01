@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - Banco de Dados (MySQL);
 - Git e GitHub.
 
-<h4>Também obtive conhecimento nas linguagens C e Python, na graduação em andamento, por meio de disciplinas das respectivas linguagens e em estrutura de dados.</h4>
+<h4>Também obtive conhecimento nas linguagens C, Java, R e Python na graduação em andamento, por meio de disciplinas das respectivas linguagens e em estrutura de dados.</h4>
 
 <h4>Meu Inglês é de nível Avançado obtido por meio de curso presencial no CCAA, já finalizado.</h4>
 
