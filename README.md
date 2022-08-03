@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 <h4>Meu Inglês é de nível Avançado obtido por meio de curso presencial no CCAA, já finalizado.</h4>
 
 <h4>Acesse meu LinkedIn e todas as outras minha redes sociais aqui: https://jharbes.github.io/my-social-networks/</h4>
+
+<div>
+  <a href="https://github.com/jharbes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jharbes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jharbes&layout=compact&langs_count=7&theme=tokyonight"/>
+    
+</div>
