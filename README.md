@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img align="center" alt="PHP" height="60" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="NodeJs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Git" height="50" width="60" src="hhttps://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
                  
 </div>
