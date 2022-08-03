@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h4>Acesse meu LinkedIn e todas as outras minha redes sociais aqui: https://jharbes.github.io/my-social-networks/</h4>
 
-<div>
+<div style="text-align: center;">
   
   <div style="display: inline-block;"><br>
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
