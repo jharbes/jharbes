@@ -25,17 +25,21 @@ Here are some ideas to get you started:
 <div style="text-align: center;">
   
   <div style="display: inline-block; margin: 0 auto;"><br>
-  <img style="margin-bottom: 10px;" align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img style="margin-bottom: 10px;" align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img style="margin-bottom: 10px;" align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img style="margin-bottom: 10px;" align="center" alt="Bootstrap" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img style="margin-bottom: 10px;" align="center" alt="React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img style="margin-bottom: 10px;" align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img style="margin-bottom: 10px;" align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img style="margin-bottom: 10px;" align="center" alt="NodeJs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img style="margin-bottom: 10px;" align="center" alt="MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img style="margin-bottom: 10px;" align="center" alt="Git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img style="margin-bottom: 10px;" align="center" alt="GitHub" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <span>
+    <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Bootstrap" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  </span>
+  <span>
+    <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+    <img align="center" alt="NodeJs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  </span>
+  <span><img align="center" alt="GitHub" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></span>
                  
 </div>
 <br>
