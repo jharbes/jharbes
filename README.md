@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-<h4>Desenvolvedor e estudante na área de Tecnologia de Informação com foco em análise de sistemas, desenvolvimento web e de aplicativos.</h4>
+<h4>Desenvolvedor na área de Tecnologia de Informação com foco em análise de sistemas, desenvolvimento web e de aplicativos.</h4>
 
 <h4>Graduando em Sistemas de Informação (Bacharelado) pelo <strong>Centro Federal de Educação Tecnológico Celso Suckow da Fonseca - CEFET/RJ</strong> - Turno Noite - Modalidade Presencial, 5º semestre letivo.</h4>
 
-<h4>Além da graduação, venho estudando e me especializando na área de desenvolvimento web full-stack, algumas das tecnologias que já venho me aperfeiçoando são:</h4>
+<h4>Além da graduação, venho me especializando na área de desenvolvimento web full-stack, algumas das tecnologias que já venho me aperfeiçoando são:</h4>
 
 - Front-End com HTML5, CSS3, JavaScript, Bootstrap e React;
 - Back-End com PHP (com POO), Node.js e Java (POO, Swing e JavaFX);
