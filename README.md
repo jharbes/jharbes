@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<h4>Desenvolvedor na área de Tecnologia de Informação com foco em análise de sistemas, desenvolvimento web e de aplicativos.</h4>
+<h4>Profissional e entusiasta na área de Tecnologia de Informação com foco em análise de sistemas, desenvolvimento web e de aplicativos.</h4>
 
 <h4>Graduando em Sistemas de Informação (Bacharelado) pelo <strong>Centro Federal de Educação Tecnológico Celso Suckow da Fonseca - CEFET/RJ</strong> - Turno Noite - Modalidade Presencial, 5º semestre letivo.</h4>
 
