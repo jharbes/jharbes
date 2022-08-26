@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - Front-End com HTML5, CSS3, JavaScript, Bootstrap e React;
 - Back-End com PHP (com POO), Node.js e Java (POO, Swing e JavaFX);
 - Banco de Dados (MySQL);
-- Git e GitHub.
+- Git e GitHub;
+- Sistema Operacional Linux.
 
 <h4>Também obtive conhecimento nas linguagens C, Java, Python e R na graduação em andamento por meio de disciplinas das respectivas linguagens, programação orientada a objetos, data science e estrutura de dados.</h4>
 
