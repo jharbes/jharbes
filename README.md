@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 <h4>Além da graduação, venho me especializando na área de desenvolvimento web full-stack, algumas das tecnologias nas quais já venho me aperfeiçoando são:</h4>
 
-- Front-End com HTML5, CSS3, JavaScript, Bootstrap e React;
+- Front-End com HTML5, CSS3, JavaScript e Bootstrap;
 - Back-End com PHP (com POO), Node.js e Java (POO, Swing e JavaFX);
 - Banco de Dados (MySQL);
 - Git e GitHub;
@@ -30,7 +30,6 @@ Here are some ideas to get you started:
     <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Bootstrap" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="React" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align="center" alt="NodeJs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
