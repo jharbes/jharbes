@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - Git e GitHub;
 - Sistema Operacional Linux.
 
-<h4>Também obtive conhecimento nas linguagens C, Java, Python e R na graduação em andamento por meio de disciplinas das respectivas linguagens, programação orientada a objetos, data science e estrutura de dados.</h4>
+<h4>Também obtive conhecimento nas linguagens C, Python e R na graduação em andamento por meio de disciplinas das respectivas linguagens, programação orientada a objetos, data science e estrutura de dados.</h4>
 
 <h4>Meu Inglês é de nível Avançado obtido por meio de curso presencial no CCAA, já finalizado.</h4>
 
