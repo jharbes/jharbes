@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <h4>Além da graduação, venho me especializando na área de desenvolvimento web full-stack, algumas das tecnologias nas quais já venho me aperfeiçoando são:</h4>
 
 - Front-End com HTML5, CSS3, JavaScript e Bootstrap;
-- Back-End com PHP (com POO), Node.js e Java (POO, Swing e JavaFX);
+- Back-End com PHP (com POO), Node.js e Java (POO, UML, Swing e JavaFX);
 - Banco de Dados (MySQL);
 - Git e GitHub;
 - Sistema Operacional Linux.
