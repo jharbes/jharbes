@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <img align="center" alt="NodeJs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="MySQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-	<img align="center" alt="Git" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+	<img align="center" alt="Linux" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
     <img align="center" alt="GitHub" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
                  
 </div>
