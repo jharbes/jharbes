@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - Front-End com HTML5, CSS3, JavaScript e Bootstrap;
 - Back-End com PHP (com POO), Node.js (Express.js) e Java (POO, UML, Swing, JavaFX, JPA, JDBC, Hibernate e Spring Boot);
-- Banco de Dados (MySQL);
+- Banco de Dados (MySQL e MariaDB);
 - Git e GitHub;
 - Sistema Operacional Linux.
 
