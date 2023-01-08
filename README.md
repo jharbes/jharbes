@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 
 <h4>Graduando em Sistemas de Informação (Bacharelado) pelo <strong>Centro Federal de Educação Tecnológico Celso Suckow da Fonseca - CEFET/RJ</strong> - Turno Noite - Modalidade Presencial, 5º semestre letivo.</h4>
 
-<h4>Além da graduação, venho me especializando na área de desenvolvimento web full-stack, algumas das tecnologias nas quais já possuo conhecimento e estou em constante aperfeiçoamento são:</h4>
+<h4>Além da graduação, venho trabalhando e me especializando na área de desenvolvimento web full-stack, algumas das tecnologias com as quais trabalho, já possuo conhecimento e estou em constante aperfeiçoamento são:</h4>
 
 - Front-End com HTML5, CSS3, JavaScript e Bootstrap;
 - Back-End com PHP (com POO), Node.js (Express.js) e Java (POO, UML, Swing, JavaFX, JPA, JDBC, Hibernate e Spring Boot);
-- Banco de Dados (MySQL e MariaDB);
+- Banco de Dados (MySQL, PostgreSQL e MariaDB);
 - Git e GitHub;
 - Sistema Operacional Linux.
 
