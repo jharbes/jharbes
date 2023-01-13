@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-<h4>Profissional e entusiasta na área de Tecnologia de Informação com foco em análise de sistemas, desenvolvimento web e de aplicativos.</h4>
+<h4 align="justify">Profissional e entusiasta na área de Tecnologia de Informação com foco em análise de sistemas, desenvolvimento web e de aplicativos.</h4>
 
-<h4>Graduando em Sistemas de Informação (Bacharelado) pelo <strong>Centro Federal de Educação Tecnológico Celso Suckow da Fonseca - CEFET/RJ</strong> - Turno Noite - Modalidade Presencial, 5º semestre letivo.</h4>
+<h4 align="justify">Graduando em Sistemas de Informação (Bacharelado) pelo <strong>Centro Federal de Educação Tecnológico Celso Suckow da Fonseca - CEFET/RJ</strong> - Turno Noite - Modalidade Presencial, 5º semestre letivo.</h4>
 
-<h4>Além da graduação, venho trabalhando e me especializando na área de desenvolvimento web full-stack, algumas das tecnologias com as quais trabalho, já possuo conhecimento e estou em constante aperfeiçoamento são:</h4>
+<h4 align="justify">Além da graduação, venho trabalhando e me especializando na área de desenvolvimento web full-stack, algumas das tecnologias com as quais trabalho, já possuo conhecimento e estou em constante aperfeiçoamento são:</h4>
 
 - Front-End com HTML5, CSS3, JavaScript e Bootstrap;
 - Back-End com PHP (com POO), Node.js (Express.js) e Java (POO, UML, Swing, JavaFX, JPA, JDBC, Hibernate e Spring Boot);
@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - Git e GitHub;
 - Sistema Operacional Linux.
 
-<h4>Também obtive conhecimento nas linguagens C, Python e R na graduação em andamento por meio de disciplinas das respectivas linguagens, programação orientada a objetos, data science e estrutura de dados.</h4>
+<h4 align="justify">Também obtive conhecimento nas linguagens C, Python e R na graduação em andamento por meio de disciplinas das respectivas linguagens, programação orientada a objetos, data science e estrutura de dados.</h4>
 
-<h4>Meu Inglês é de nível Avançado obtido por meio de curso presencial no CCAA, já finalizado.</h4>
+<h4 align="justify">Meu Inglês é de nível Avançado obtido por meio de curso presencial no CCAA, já finalizado.</h4>
 
-<h4>Acesse meu LinkedIn e todas as outras minha redes sociais aqui: https://jharbes.github.io/my-social-networks/</h4>
+<h4 align="justify">Acesse meu LinkedIn e todas as outras minha redes sociais aqui: https://jharbes.github.io/my-social-networks/</h4>
 
 <div style="text-align: center;">
   
