@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<h4 align="justify">Desenvolvedor de Software Full-Stack na empresa Agência 4P.</h4>
+<h4 align="justify">Estagiário em Desenvolvimento de Software na empresa TechnipFMC.</h4>
 
 <h4 align="justify">Graduando em Sistemas de Informação (Bacharelado) pelo <strong>Centro Federal de Educação Tecnológico Celso Suckow da Fonseca - CEFET/RJ</strong> - Turno Noite - Modalidade Presencial, 6º semestre letivo.</h4>
 
