@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - Front-End com HTML5, CSS3, JavaScript e Bootstrap;
 - Back-End com PHP (com POO), Node.js (Express.js) e Java (POO, UML, Swing, JavaFX, JPA, JDBC, Hibernate e Spring Boot);
-- Automação robótica de processos (RPA) com Python
+- Automação robótica de processos (RPA) com Python;
 - Banco de Dados (MySQL, PostgreSQL e MariaDB);
 - Git e GitHub;
 - Sistema Operacional Linux.
