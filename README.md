@@ -1,4 +1,4 @@
-<h2>JORGE NAMI HARBES</h2>
+<h2>JORGE HARBES</h2>
 
 <!--
 **jharbes/jharbes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
