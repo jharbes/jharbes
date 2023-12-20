@@ -7,13 +7,13 @@ Here are some ideas to get you started:
 -->
 <h4 align="justify">Software Development Intern na empresa TechnipFMC.</h4>
 
-<h4 align="justify">Graduando em Sistemas de Informação (Bacharelado) pelo <strong>Centro Federal de Educação Tecnológico Celso Suckow da Fonseca - CEFET/RJ</strong> - Turno Noite - Modalidade Presencial, 7º semestre letivo.</h4>
+<h4 align="justify">Graduando em Sistemas de Informação (Bacharelado) pelo <strong>Centro Federal de Educação Tecnológico Celso Suckow da Fonseca - CEFET/RJ</strong> - Turno Noite - Modalidade Presencial, 8º semestre letivo.</h4>
 
 <h4 align="justify">Algumas das tecnologias com as quais trabalho e estou em constante aperfeiçoamento são: </h4>
 
 - Front-End com HTML5, CSS3, JavaScript e Bootstrap;
 - Back-End com PHP, Node.js (Express.js) e Java (JPA, JDBC, Hibernate e Spring Boot);
-- Automação robótica de processos (RPA) com Python e VBA;
+- Automação robótica de processos (RPA) com Python, VBA e Power Automate;
 - Análise de Dados com Python e Power BI;
 - Banco de Dados (MySQL, PostgreSQL, Microsoft SQL Server e MariaDB);
 - Git e GitHub;
