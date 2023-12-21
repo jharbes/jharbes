@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - Back-End com PHP, Node.js (Express.js) e Java (JPA, JDBC, Hibernate e Spring Boot);
 - Automação robótica de processos (RPA) com Python, VBA e Power Automate;
 - Análise de Dados com Python e Power BI;
+- Desenvolvimento Lowcode com Power Apps;
 - Banco de Dados (MySQL, PostgreSQL, Microsoft SQL Server e MariaDB);
 - Git e GitHub;
 - Sistema Operacional Linux.
